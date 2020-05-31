@@ -1,6 +1,1 @@
-hello this is wina
-hello this is wina
-hello this is wina
-hello this is wina
-hello this is wina
-hello this is wina
+This is a sample file
