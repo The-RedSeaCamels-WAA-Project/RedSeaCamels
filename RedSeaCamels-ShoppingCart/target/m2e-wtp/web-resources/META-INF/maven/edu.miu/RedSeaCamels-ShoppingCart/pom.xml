@@ -54,7 +54,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>Waa.lab3</finalName>
+		<finalName>redSeaCamels.shopping-cart.com</finalName>
 		<pluginManagement><!-- lock down plugins versions to avoid using Maven 
 				defaults (may be moved to parent pom) -->
 			<plugins>
